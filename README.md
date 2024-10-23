@@ -7,10 +7,10 @@
 - nodejs
   
 ## How to run?
-1.Clone this project
-2.Give this command `npm i`
-3.Add env file to your project root
-4.Now hit thois command to execute:
+1. Clone this project
+2. Give this command `npm i`
+3.  Add env file to your project root
+4. Now hit thois command to execute:
 ``` npm test ```
 - Documentation for this project: https://api.postman.com/collections/38882458-d74511dc-5605-4d35-8355-4182370908d4?access_key=PMAT-01JAKRKYGDXPJ44ZN1M041B3JK
 - Test cases for this project:
